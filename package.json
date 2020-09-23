@@ -1,0 +1,14 @@
+{
+  "name": "multiplayerpiano-bot",
+  "version": "1.0.0",
+  "description": "mpp bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dawoori",
+  "license": "MIT",
+  "dependencies": {
+    "multiplayerpianojs": "^1.3.8"
+  }
+}
