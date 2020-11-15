@@ -26,7 +26,7 @@ rl.on("line", function (line) {
     mpp.sendMessage(line);
   }
    if (chars[0] === "playurl") {
-    mpp.playMidi(`$`);
+    mpp.playMidi(`$charsurl`);
   } else {
     mpp.sendMessage(line);
   }
