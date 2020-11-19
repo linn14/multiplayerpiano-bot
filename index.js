@@ -30,3 +30,5 @@ rl.on("line", function (line) {
 }).on("close", function () {
   process.exit();
 });
+
+# Smh im a bitch, im gonna work on this later.
